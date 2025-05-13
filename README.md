@@ -2,7 +2,7 @@
 
 Selamat datang di profil GitHub saya! Saya seorang **pemula di dunia Cybersecurity** dan mahasiswa yang fokus di **Teknik Komputer dan Jaringan (TKJ)**. Saat ini saya lagi belajar banyak tentang **penetration testing** dan **keamanan jaringan**.
 
-![Banner Image](https://www.example.com/banner-image.png) <!-- Jika ada gambar banner, ganti dengan URL gambar -->
+![Banner Image](https://ibb.co/C5hfyqkD) <!-- Jika ada gambar banner, ganti dengan URL gambar -->
 
 ## 🌱 Lagi Belajar Apa Aja?
 
