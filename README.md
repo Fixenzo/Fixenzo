@@ -16,9 +16,9 @@ Selamat datang di profil GitHub saya! Saya seorang **pemula di dunia Cybersecuri
 Berikut alat dan teknologi yang saya gunakan:
 
 - **Bahasa Pemrograman**: Python, Bash, PowerShell
-- **Tools Keamanan**: Metasploit, Wireshark, Nmap, Burp Suite
+- **Tools Keamanan**: Metasploit, Wireshark, Nmap, Termux(for phone)
 - **Sistem Operasi**: Kali Linux, Windows, Ubuntu
-- **Jaringan**: Cisco Packet Tracer, Wireshark, TCP/IP
+- **Jaringan**: Cisco Packet Tracer, Wireshark, TCP/IP,Ubuntu 
 
 ## 🚀 Apa yang Sedang Saya Kerjakan?
 
@@ -41,7 +41,7 @@ Berikut alat dan teknologi yang saya gunakan:
 ## 📚 Fakta Menarik
 
 - Saya suka banget ikut **CTF** (Capture The Flag) buat ngasah kemampuan hacking saya.
-- Kalau lagi nggak belajar cybersecurity, saya main **CS:GO** atau baca cerita-cerita game.
+- Kalau lagi nggak belajar cybersecurity, saya main **BLOODSTRIKE** atau baca cerita² novel seperti SCP.
 
 Terima kasih sudah mampir ke GitHub saya! Kalau ada yang mau ditanya atau ingin kerja bareng, feel free buat hubungi saya. 😊
 
