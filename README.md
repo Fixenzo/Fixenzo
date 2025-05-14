@@ -1,6 +1,6 @@
 # Hi, I'm Fixenzo 👋
 
-![Banner Image](./banner.png)
+![Banner Image](https://i.imgur.com/YPirLJG.jpeg)
 
 Selamat datang di profil GitHub saya! Saya seorang **pemula di dunia Cybersecurity** dan mahasiswa yang fokus di **Teknik Komputer dan Jaringan (TKJ)**. Saat ini saya lagi belajar banyak tentang **penetration testing** dan **keamanan jaringan**.
 
